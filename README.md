@@ -1,14 +1,11 @@
 # Add an Image
 
-You can write something like just text here
+My nam Jef
 
 This is a bullet list:
 
-- I 
-- can
-- do
-- bullet
-- list
-* asterisks work too
+-apples
+-pears
+-oranges
 
 ## New section
